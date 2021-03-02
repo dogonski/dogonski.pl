@@ -21,7 +21,7 @@ const projects = [
     id: 2,
     title: 'dodecaphony',
     backgroundImage: dodecaphonyImg,
-    content: 'simple but usefull tool for generating dodecaphonic series and more',
+    content: 'simple but useful tool for generating dodecaphonic series and more',
     projectLink: 'https://dodecaphony.netlify.app/',
     githubLink: 'https://github.com/dogonski/dodekafonia',
   },
